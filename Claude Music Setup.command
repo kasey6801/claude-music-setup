@@ -340,5 +340,14 @@ echo '  "Build a playlist of the 20 most sampled songs from the 1970s'
 echo '   that were sampled in 1980s and 1990s hip hop. Create it in my'
 echo '   Apple Music library and call it 70s Hip Hop Samples."'
 echo
+echo "  ${BOLD}Tip — finding tracks not in your library:${RESET}"
+echo "  Add this to any prompt to get Apple Music links for each track:"
+echo
+echo '  "For each selection add a URL to link to the track in Apple Music."'
+echo
+echo "  Claude can provide URLs to tracks and published compilations whether"
+echo "  or not they are in your library. Open each link in Apple Music to"
+echo "  preview, add to your library, then ask Claude to include them."
+echo
 echo "────────────────────────────────────────────────────────────"
 echo
