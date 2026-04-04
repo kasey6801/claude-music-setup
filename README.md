@@ -27,12 +27,20 @@ Double-click **claude-music-setup.dmg**. A window opens showing two files:
 Double-click **Claude Music Setup.command**. This is the installer — Terminal
 opens and the setup process starts automatically.
 
-If macOS shows a warning that the file is from an unidentified developer,
-right-click the file, choose **Open**, then click **Open** in the dialog that
-appears. This is a one-time step because the installer is not signed with a
-paid Apple Developer certificate — the script itself is safe to run.
+If macOS shows a warning that the file is from an unidentified developer, choose **Done**, 
+<img width="514" height="522" alt="2026-04-04 17 16 40" src="https://github.com/user-attachments/assets/66b7d409-b401-4753-89d3-d58029c90ca1" />
+
+
+then click **Open Anyway** in the privacy and security dialog. This is a one-time step because the installer is not signed with a
+paid Apple Developer certificate — the script itself is safe to run. (but please review any script you run prior to doing so). 
+
+<img width="1382" height="360" alt="2026-04-04 17 19 12" src="https://github.com/user-attachments/assets/f3e988a7-0e40-41e0-bb73-465193605d85" />
+
+
 
 ### Step 3 — Follow the on-screen prompts
+<img width="1112" height="428" alt="2026-04-04 17 13 19" src="https://github.com/user-attachments/assets/1e6dd8de-1d7d-41d6-a323-e3579d02650b" />
+
 
 The installer will:
 
