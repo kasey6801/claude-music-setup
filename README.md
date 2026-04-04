@@ -153,6 +153,7 @@ knowledge of music history, build the playlist, and add it directly to your
 Apple Music library.
 
 **Tip — finding tracks not in your library**
+
 Claude can search for and provide Apple Music URLs for any track or published
 compilation, whether or not it is already in your library. Add this to any
 prompt to get clickable links alongside the playlist:
