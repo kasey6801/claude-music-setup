@@ -28,18 +28,19 @@ Double-click **Claude Music Setup.command**. This is the installer — Terminal
 opens and the setup process starts automatically.
 
 If macOS shows a warning that the file is from an unidentified developer, choose **Done**, 
-<img width="514" height="522" alt="2026-04-04 17 16 40" src="https://github.com/user-attachments/assets/66b7d409-b401-4753-89d3-d58029c90ca1" />
+
+<img width="257" height="261" alt="2026-04-04 17 16 40" src="https://github.com/user-attachments/assets/66b7d409-b401-4753-89d3-d58029c90ca1" />
 
 
 then click **Open Anyway** in the privacy and security dialog. This is a one-time step because the installer is not signed with a
 paid Apple Developer certificate — the script itself is safe to run. (but please review any script you run prior to doing so). 
 
-<img width="1382" height="360" alt="2026-04-04 17 19 12" src="https://github.com/user-attachments/assets/f3e988a7-0e40-41e0-bb73-465193605d85" />
+<img width="691" height="180" alt="2026-04-04 17 19 12" src="https://github.com/user-attachments/assets/f3e988a7-0e40-41e0-bb73-465193605d85" />
 
 
 
 ### Step 3 — Follow the on-screen prompts
-<img width="1112" height="428" alt="2026-04-04 17 13 19" src="https://github.com/user-attachments/assets/1e6dd8de-1d7d-41d6-a323-e3579d02650b" />
+<img width="556" height="214" alt="2026-04-04 17 13 19" src="https://github.com/user-attachments/assets/1e6dd8de-1d7d-41d6-a323-e3579d02650b" />
 
 
 The installer will:
@@ -53,7 +54,12 @@ The installer will:
    disturbing any other connectors you may have set up
 5. Open System Settings to the one screen where you need to grant a permission
 
+<img width="491" height="563" alt="2026-04-04 17 25 09" src="https://github.com/user-attachments/assets/4b6a0ba7-5457-442b-a8b9-797dc61c42bf" />
+
 The whole process takes about 2 minutes.
+
+<img width="456" height="394" alt="2026-04-04 17 33 33" src="https://github.com/user-attachments/assets/f2932667-d71d-476d-83fa-8bba758eda49" />
+
 
 #### What the music connector is and how it works
 
