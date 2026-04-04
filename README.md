@@ -152,16 +152,16 @@ Open Claude Desktop and try one of the prompts below. Claude will search its
 knowledge of music history, build the playlist, and add it directly to your
 Apple Music library.
 
-> **Tip — finding tracks not in your library**
-> Claude can search for and provide Apple Music URLs for any track or published
-> compilation, whether or not it is already in your library. Add this to any
-> prompt to get clickable links alongside the playlist:
->
-> *"For each selection add a URL to link to the track in Apple Music."*
->
-> You can then open each link directly in the Apple Music app, preview the
-> track, and add it to your library before asking Claude to include it in the
-> playlist.
+**Tip — finding tracks not in your library**
+Claude can search for and provide Apple Music URLs for any track or published
+compilation, whether or not it is already in your library. Add this to any
+prompt to get clickable links alongside the playlist:
+
+*"For each selection add a URL to link to the track in Apple Music."*
+
+You can then open each link directly in the Apple Music app, preview the
+track, and add it to your library before asking Claude to include it in the
+playlist.
 
 ### Sampling and hip hop
 
