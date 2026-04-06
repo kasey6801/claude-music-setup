@@ -33,7 +33,8 @@ If macOS shows a warning that the file is from an unidentified developer, choose
 
 
 then click **Open Anyway** in the privacy and security dialog. This is a one-time step because the installer is not signed with a
-paid Apple Developer certificate — the script itself is safe to run. **(but please review any script you run prior to doing so).** 
+paid Apple Developer certificate — the script itself is safe to run. 
+**(but please, for the love of all that's good in this world, review any script, you run prior to doing so).** 
 
 <img width="691" height="180" alt="2026-04-04 17 19 12" src="https://github.com/user-attachments/assets/f3e988a7-0e40-41e0-bb73-465193605d85" />
 
