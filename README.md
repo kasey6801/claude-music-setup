@@ -1,7 +1,7 @@
 # Claude + Apple Music Setup
 
 Connects Claude Desktop to your Apple Music library so you can ask Claude
-to explore and build historically-informed playlists in plain English. 
+to explore and build historically-informed playlists. 
 
 This is a packaged script + readme
 
